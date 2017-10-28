@@ -6,7 +6,7 @@ box      = 'precise32'
 url      = 'http://files.vagrantup.com/precise32.box'
 hostname = 'myprecisebox'
 domain   = 'example.com'
-ip       = '192.168.56.1'
+ip       = '192.168.1.100'
 ram      = '256'
 
 Vagrant::Config.run do |config|

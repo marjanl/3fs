@@ -25,3 +25,6 @@ CREATE TABLE IF NOT EXISTS `WishListItem` (
 INSERT INTO WishListItem (name, description) VALUES ('Pro Puppet book', 'I wanna be a Puppet pro.');
 INSERT INTO WishListItem (name, description) VALUES ('Red Rider BB Gun', 'I will NOT shoot my eye out.');
 INSERT INTO WishListItem (name, description) VALUES ('Soccer cleats', 'For ultimate frisbee. Good luck finding a size 14.');
+
+
+buuuu
